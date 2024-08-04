@@ -6,8 +6,6 @@ import VisitedCountries from './components/VisitedCountries'
 
 import './App.css'
 
-//This is the list (static data) used in the application. You can move it to any component if needed.
-
 const initialCountriesList = [
   {
     id: '53c9c67a-c923-4927-8a75-fdfc4bc5ec61',

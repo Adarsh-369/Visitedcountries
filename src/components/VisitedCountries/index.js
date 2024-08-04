@@ -20,7 +20,7 @@ const VisitedCountries = props => {
             onClick={remove}
             data-testid="delete"
           >
-            Remove
+            remove
           </button>
         </div>
       </div>
